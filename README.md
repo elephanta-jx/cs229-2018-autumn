@@ -6,3 +6,5 @@ The videos of all lectures are available [on YouTube](https://www.youtube.com/pl
 
 Useful links:
 - [CS229 Summer 2019 edition](https://github.com/maxim5/cs229-2019-summer)
+
+- [CS229: Machine Learning](http://elephanta-jx.github.io/cs229-2018-autumn/)
